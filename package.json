@@ -1,0 +1,21 @@
+{
+  "name": "mini-blog",
+  "version": "1.0.0",
+  "description": "Simple SPA mini blog",
+  "author": "Andrey Axenov",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "element-ui": "^2.13.0",
+    "nuxt": "^2.10.2"
+  },
+  "devDependencies": {
+    "node-sass": "^4.13.0",
+    "sass-loader": "^8.0.0"
+  }
+}
