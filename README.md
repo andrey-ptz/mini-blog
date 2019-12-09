@@ -1,6 +1,10 @@
-# mini-blog
+# Mini blog
 
-> Simple SPA mini blog
+> Simple SPA mini blog, powered by [Nuxt.js](https://nuxtjs.org/) and [Element UI](https://element.eleme.cn/#/en-US)
+
+## Demo
+
+View a demo [here](http://mini-blog.myfirst.website/).
 
 ## Build Setup
 
@@ -18,5 +22,3 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
